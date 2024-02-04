@@ -1,0 +1,21 @@
+30. How would you optimize a website’s assets?
+
+31. How can you reduce the page load time?
+
+
+32. What is the difference among linking to an image, website, and email address?
+
+33. How do floats function?
+
+34. What are the important things to remember when designing or developing multilingual sites?
+
+35. Name the plug-ins available in the Bootstrap jQuery plug-in library.
+
+36. What is the difference between require() and include()?
+
+
+38. What is the difference between normalize.css and reset.css?
+
+39. How would you find specific objects in an array of objects using JavaScript?
+
+40. How would you filter an array of objects based on conditions using JavaScript?

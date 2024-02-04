@@ -1,0 +1,15 @@
+23. Explain the difference between the <b> and <strong> tags.
+
+24. Discuss the differences between this quartet of position properties: Relative, Absolute, Static, and Fixed.
+
+25. Explain web accessibility.
+
+26. What is JavaScript Hoisting?
+
+27. What’s the difference between HTML and XHTML?
+
+28. Explain the differences between local storage, session storage, and cookies.
+
+29. Discuss the differences between a document and a window.
+
+30. Does HTML require a compiler?

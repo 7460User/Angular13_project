@@ -1,0 +1,38 @@
+14. Describe a few advantages of CSS
+
+15. Is JavaScript a case-sensitive language?
+
+16. Differentiate between quirks mode and standards mode.
+
+
+17. What is the syntax difference between a bulleted list and a numbered list?
+
+18. Explain the layout of HTML
+
+19. What is a responsive website?
+
+20. What is the difference between a window and a document?
+
+21. Explain event bubbling and event capturing
+
+
+22. Give an example of how to create an object in JavaScript
+Here is how we can create an object in JavaScript:
+
+
+23. Explain the difference among the inline, inline-block, and block elements of HTML
+
+24. What is the difference among relative, absolute, static, and fixed?
+
+25. Describe web accessibility.
+
+26. What are the differences between local storage, session storage, and cookies?
+
+27. Explain JavaScript Hoisting
+
+
+28. Point out the differences among XHTML, HTML4, and HTML5
+
+29. What is the importance of semantic elements?
+
+30. How would you optimize a website’s assets?

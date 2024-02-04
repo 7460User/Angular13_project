@@ -1,0 +1,73 @@
+what is Angular Framework. How this difference from Angualr JS.  
+>>TypeScript -> Angular, AngularJS JavaScript
+
+Why industry prefer to use Angualr? What Benifit I will get using Angualr? Adnatages and Disadvantages.
+
+Explain Agular Architecture.
+
+What is Component and Module in Angular. Tell me Differences.
+
+What is Data Binding in Angular?
+
+_____________________________________________
+
+
+Html
+Css
+JavaScript
+BootStrap
+Angular
+Testing with Angular
+Photoshop
+MongoDB
+Node JS
+
+
+Tools:
+Agile Scrum
+GIT
+Maven
+Jira
+Visual Studio Code
+Note Pad ++
+Google Chrome Browser
+Sublime Text
+..
+..
+..
+
+
+1 . Profile upload
+2 . IT Industry Understanding as Developer
+
+
+
+HTML ::
+https://www.naukri.com/learning/articles/top-html-interview-questions-and-answers/
+https://www.javatpoint.com/html-interview-questions
+https://www.interviewbit.com/html-interview-questions/
+//////////////
+2/2/2022
+
+
+ersion :
+HTML4 :::
+What is  SGML and HTML4 was developed using SGML
+
+HTML5  Archituctre :
+
+<header>
+<aside>
+<footer>
+
+Modularity : increase
+Features :
+
+Table  using html5   , All tag  using CSS
+Form   using html5   , All tag and all input contorol , using CS
+/////////////////////
+CSS :
+How to link CSS with HTM.
+CSS Selecters.
+CSS Animation.
+What is new Features in CSS3? Difference b/w CSS and CSS3

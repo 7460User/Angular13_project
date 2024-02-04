@@ -1,0 +1,26 @@
+1) How do you optimize a website’s assets?
+
+2) What are the three ways to reduce page load time?
+
+3) What kind of things must you be wary of when the design or developing multilingual sites?
+
+4) What is HTML?
+
+5) What is the difference between HTML elements and tags?
+
+6) What is “Semantic HTML"?
+
+
+7) What does DOCTYPE mean?
+
+8) What’s the difference between standards mode and quirks mode?
+
+9. What are the limitations when serving XHTML pages?
+
+10. How do you make comments without text being picked up by the browser?
+
+11. What is the difference between linking to an image, a website, and an email address?
+
+12. My hyperlink or image is not displaying correctly, what is wrong with it?
+
+13. What is the syntax difference between a bulleted list and a numbered list?

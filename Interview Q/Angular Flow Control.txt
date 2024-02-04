@@ -1,0 +1,51 @@
+Angular Project File System
+=====================
+1. src                : It comprises of all project resources.
+2. browserslistrc        : It comprises of information about supported
+                  browser.
+                   [Angular 13 removed support for IE]
+
+3. karma.conf.js        : It comprises of configuration for testing
+                  framework used in angular.
+
+                  [Angular is supported with Jasmine - Karma]
+               
+4. tsconfig.app.json        : It defines the rules for typescript.
+
+5. tsconfig.spec.json : 'spec' refers to testing file.
+
+
+Project Resources [SRC]
+===================
+1. app                : It comprises of application resources like
+                  - modules
+                  - components
+                  - services
+                  - pipes etc..
+
+2. assets                : It comprises of static resources like
+                  - images
+                  - text documents
+                  - pdf, word, audio , video etc..
+
+3. environments        : It contains the files required for configuring
+                  project environment from development to
+                  production.
+
+
+4. favicon.ico        : It is the favorite icon for website.
+
+
+5. index.html        : It is the startup page
+
+6. main.ts                : Entry point, from here your application
+                  starts compiling, processing.
+
+7. polyfills.ts        : It handles differential loading
+                  It loads library according to browser.
+
+8. styles.css        : It comprises of global styles.
+                  Styles used for all components.
+
+9. test.ts                : It is used to start testing of application.
+
